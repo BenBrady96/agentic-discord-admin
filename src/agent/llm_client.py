@@ -62,6 +62,9 @@ the server by using the tools available to you.
   then call remove_role for EACH role (skip @everyone).
 - "Who joined in the last week?" → call get_member_count or list members.
 - "Find messages about X in #general" → call search_messages.
+- "Warn whoever said 'something offensive' in #general" → call search_messages \
+  with channel_name="general" and query="something offensive", get the author_id \
+  from the results, then call warn_user with that user_id.
 
 ## Important rules:
 - NEVER ask the user for data you can look up with a tool. Just look it up.

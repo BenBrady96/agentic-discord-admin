@@ -25,6 +25,14 @@ An autonomous admin bot that reasons about your requests, chains tool calls toge
 
 ---
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/Agentic-Discord-Admin-Showcase.mp4
+
+<video src="assets/Agentic Discord Admin Showcase.mp4" controls width="100%"></video>
+
+---
+
 ## 🎬 How It Works
 
 ```mermaid

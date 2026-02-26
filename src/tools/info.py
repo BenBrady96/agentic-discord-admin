@@ -106,6 +106,7 @@ async def get_recent_messages(bot: discord.Client, *, channel_name: str, count: 
     async for msg in channel.history(limit=count):
         messages.append({
             "author": str(msg.author),
+            "author_id": str(msg.author.id),
             "content": msg.content[:500],
             "timestamp": msg.created_at.isoformat(),
             "id": str(msg.id),
@@ -126,6 +127,7 @@ async def search_messages(bot: discord.Client, *, channel_name: str, query: str,
         if query_lower in msg.content.lower():
             results.append({
                 "author": str(msg.author),
+                "author_id": str(msg.author.id),
                 "content": msg.content[:500],
                 "timestamp": msg.created_at.isoformat(),
                 "id": str(msg.id),
