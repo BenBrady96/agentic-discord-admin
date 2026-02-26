@@ -27,7 +27,7 @@ An autonomous admin bot that reasons about your requests, chains tool calls toge
 
 ## 🎥 Demo
 
-https://raw.githubusercontent.com/BenBrady96/agentic-discord-admin/main/assets/Agentic%20Discord%20Admin%20Showcase.mp4
+[![Watch the demo](https://img.youtube.com/vi/BwE0c9SxiMs/maxresdefault.jpg)](https://youtu.be/BwE0c9SxiMs)
 
 ---
 
