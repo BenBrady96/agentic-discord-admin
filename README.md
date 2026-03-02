@@ -200,10 +200,11 @@ agentic-discord-admin/
 
 ## 📄 License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT - see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 📧 Contact
 
-**BenBrady96** — [GitHub](https://github.com/BenBrady96)
+**Github** - [GitHub](https://github.com/BenBrady96)
+**LinkedIn** - [ben-brady-b241642b4](https://www.linkedin.com/in/ben-brady-b241642b4/)
